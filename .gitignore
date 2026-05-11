@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 DS_Store
+=======
+.DS_Store
+>>>>>>> cbbd83b15f2b5b5b16051b86c0fbeb8ee712ef93
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -9,7 +13,10 @@ __pycache__/
 *.pyc
 *.csv
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> cbbd83b15f2b5b5b16051b86c0fbeb8ee712ef93
 # Distribution / packaging
 .Python
 build/
@@ -226,5 +233,9 @@ __marimo__/
 .streamlit/secrets.toml
 #Data file
 data/
+<<<<<<< HEAD
 *.pyc
 
+=======
+*.pyc
+>>>>>>> cbbd83b15f2b5b5b16051b86c0fbeb8ee712ef93
