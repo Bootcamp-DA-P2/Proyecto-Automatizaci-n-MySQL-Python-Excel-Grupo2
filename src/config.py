@@ -13,3 +13,5 @@ DB_HOST = os.getenv("DB_HOST")
 DB_NAME = os.getenv("DB_NAME")
 
 DB_PORT = os.getenv("DB_PORT")
+
+OUTPUT_FOLDER = os.getenv('OUTPUT_FOLDER', 'output')

@@ -1,4 +1,4 @@
-USE sakila;
+
 
 SELECT
     f.film_id,

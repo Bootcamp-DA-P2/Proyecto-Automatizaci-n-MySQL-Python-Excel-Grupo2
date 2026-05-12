@@ -1,6 +1,6 @@
-USE sakila;
-CREATE VIEW Vista_catalogo AS
-SELECT
+
+
+SELECT 
     f.film_id,
     CONCAT(UPPER(LEFT(f.title,1)), LOWER(SUBSTRING(f.title,2))) AS title_clean,
     CONCAT(UPPER(LEFT(f.description,1)), LOWER(SUBSTRING(f.description,2))) AS description_clean,

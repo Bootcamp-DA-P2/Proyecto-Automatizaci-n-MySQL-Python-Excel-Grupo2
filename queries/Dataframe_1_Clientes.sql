@@ -1,4 +1,3 @@
-USE sakila;
 
 SELECT 
     c.customer_id,
