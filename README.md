@@ -1,9 +1,4 @@
 # Proyecto de Automatizacion-MySQL-Python-Excel-Grupo2
-## Descripción del proyecto 📝
-Automatización del flujo de datos desde la base de datos **Sakila** (MySQL) hacia **Excel**, generando CSVs procesados que alimentan un dashboard interactivo con tablas dinámicas y KPIs.
-
----
-
 ## 👥 Equipo — Grupo 2
 
 | Nombre | Rol |
@@ -14,7 +9,7 @@ Automatización del flujo de datos desde la base de datos **Sakila** (MySQL) hac
 
 ---
 
-## 📋 Descripción
+## 📋 Descripción del proyecto
 
 Este proyecto automatiza la extracción y análisis de datos de la base de datos **Sakila** usando Python, generando 4 datasets en formato CSV que se conectan automáticamente a un libro de Excel con tablas dinámicas y KPIs.
 
