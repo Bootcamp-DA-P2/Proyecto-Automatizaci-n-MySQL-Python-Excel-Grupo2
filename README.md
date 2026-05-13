@@ -8,7 +8,7 @@ Automatización del flujo de datos desde la base de datos **Sakila** (MySQL) hac
 
 | Nombre | Rol |
 |---|---|
-| Sonia Navarro | Queries SQL y | visualizaciones |
+| Sonia Navarro | Queries SQL y visualizaciones |
 | María Bejarano | Dashboard Excel y transformación de datos |
 | Romina Navea | Desarrollo ETL y conexión base de datos |
 
